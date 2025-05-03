@@ -1,6 +1,6 @@
 function SupportPage() {
     return (
-      <div className="min-h-screen px-6 py-16 text-white max-w-4xl mx-auto">
+      <div className="min-h-screen pb-24 px-6 py-16 text-white max-w-4xl mx-auto">
         <h1 className="text-5xl font-bold font-mono mb-10 text-center">Support</h1>
 
         <div className="mb-12">
